@@ -1,0 +1,7 @@
+/packages
+/Test.Jasmine/bin
+/Test.Jasmine/obj
+/Test.Jasmine/Content
+/Test.Jasmine/Scripts
+/*.user
+/*.suo
